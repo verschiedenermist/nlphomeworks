@@ -10,11 +10,11 @@
 
 `nlphw2.ipynb` — работа с корпусами текстов, морфологический разбор с использованием библиотек pymorphy2, natasha и conllu, а также работа с токенизацией и частотным анализом.
 
-##Используемые библиотеки:
+## Используемые библиотеки:
 
-`nltk
-pymorphy2
-sklearn
-natasha
-pandas
-conllu`
+1. `nltk`
+2. `pymorphy2`
+3. `sklearn`
+4. `natasha`
+5. `pandas`
+6. `conllu`
